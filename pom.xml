@@ -82,8 +82,8 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven-releases</name>
-	      <url>http://localhost:9006/RameshAkkiraju/repository/maven-releases/</url>
+	      <name>MavenRepository-Releases</name>
+	      <url>http://localhost:9006/RameshAkkiraju/repository/MavenRepository-Releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
