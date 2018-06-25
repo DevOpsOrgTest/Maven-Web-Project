@@ -82,7 +82,7 @@
 	    <repository>
 	      <id>JFrog</id>
 	      <name>JfrogRemoterepo-Maven</name>
-	      <url>JfrogRemoterepo-Maven/</url>
+	      <url>http://localhost:9005/artifactory/JfrogRemoterepo-Maven</url>
 	    </repository>
 	<!--    <snapshotRepository>
 	      <id>nexus</id>
