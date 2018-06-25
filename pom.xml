@@ -6,7 +6,7 @@
   <groupId>com.mt</groupId>
   <artifactId>maven-web-project</artifactId>
   <packaging>war</packaging>
-  <version>3.0</version>
+  <version>5.0</version>
   <name>Maven Web Project 23rd June</name>
   <description>Maven Web Project for Java</description>
 
@@ -80,9 +80,9 @@
 
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
-	      <name>maven-releases</name>
-	      <url>http://localhost:9006/RameshAkkiraju/repository/maven-releases/</url>
+	      <id>JFrog</id>
+	      <name>JfrogRemoterepo-Maven</name>
+	      <url>JfrogRemoterepo-Maven/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
