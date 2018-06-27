@@ -18,4 +18,4 @@ node {
                 }
        
 }
-node('Project1_Node') {}
+node('master') {}
