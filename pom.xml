@@ -79,12 +79,12 @@
   </dependencies>
 
 	<distributionManagement>
-	    <repository>
+	 <!--   <repository>
 	      <id>JFrog</id>
 	      <name>JfrogRemoterepo-Maven</name>
 	      <url>http://localhost:9005/artifactory/JfrogRemoterepo-Maven</url>
 	    </repository>
-	<!--    <snapshotRepository>
+	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>maven-snapshots</name>
 	      <url>http://localhost:9006/RameshAkkiraju/repository/maven-snapshots/</url>
